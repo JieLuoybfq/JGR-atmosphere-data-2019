@@ -7,5 +7,6 @@
 -  The file without _depo represents the data of integral optical properties. The extinction, absorption and scattering efficiencies are presented in the the first three columns. N_s and black carbon volume fraction (%) are presented in 8,9 columns. For the other data, please see the guide of DDSCAT and MSTM.
 -  The files with "edge" represents the data of black carbon models with coated way 1, and files without k represents k=8. The files with "Rg" represents the data of black carbon models with coated way 2, and "025Rg", "05Rg","Rg","2Rg", and "50Rg" represents Rc= "0.25Rg", "0.5Rg","Rg","2Rg", and "50Rg", respectively. 
 - Any one uses this data please cite our article which is named "Optical modeling of black carbon with non-absorbing coatings: The effect of coating configurations"
+- This data will be shown when the article is published.
 -  Any question please contact Dr.Luo (ajybfq@mail.ustc.edu.cn) or Professor Zhang (qixing@ustc.edu.cn).
 
