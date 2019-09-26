@@ -2,7 +2,7 @@
 
 # Optical modeling of black carbon with non-absorbing coatings: The effect of coating configurations
 
-### This is the introduction for the data published on JGR-Atmosphere by Luo et al.
+### This is the introduction for data of the paper submitted to JGR-Atmosphere by Luo et al.
 
 ###  When using the data, please note:
 
